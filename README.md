@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Mai Xuan Canh**! 🔧 Embedded Engineer | 🏗️ Hardware Designer | 🌍 Control Systems Enthusiast 
+## 👋 Hi, I'm **Mai Xuan Canh**!  Embedded Engineer |  Hardware Design Engineer | 
 
 I'm an embedded engineer specializing in **Hardware Design and Embedded Systems**. As a final-year student in **Control and Automation Engineering at Ho Chi Minh City University of Technology**, I focus on designing high-performance embedded systems and PCB hardware solutions.
 
