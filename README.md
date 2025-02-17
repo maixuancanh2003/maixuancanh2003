@@ -9,7 +9,7 @@ I'm an embedded engineer specializing in **Hardware Design and Embedded Systems*
 ### 🔨 Tech Stack  
 🔹 **Languages**: C, C++, Python, HTML, Assembly, Bash  
 🔹 **PCB Design**: Altium Designer, OrCAD, Allegro  
-🔹 **Embedded Platforms**: STM32, ESP32, Raspberry Pi  
+🔹 **Embedded Platforms**: AVR, STM32, ESP32, Raspberry Pi  
 🔹 **Development Tools**: Keil, CubeIDE, VsCode, PlatformIO  
 
 ### 📌 Projects 🚀  
